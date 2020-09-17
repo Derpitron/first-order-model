@@ -9,7 +9,7 @@ matplotlib
 networkx
 numpy
 pandas
-Pillow=
+Pillow
 pycparser
 pygit
 pyparsing
